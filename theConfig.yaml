@@ -1,3 +1,4 @@
 excel:
-  local: D:\Rankingfilter.xlsx
-  sqvelocal: D:\
+  local: /Users/seasea/desktop/Rankingfilter.xlsx
+  sqvelocal: /Users/seasea/desktop/
+  reportlocal: /Users/seasea/desktop/confrimds.xlsx
